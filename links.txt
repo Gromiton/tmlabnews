@@ -160,7 +160,7 @@ https://go.recordedfuture.com/hubfs/reports/cta-2025-0121.pdf
 
 https://exegol.readthedocs.io/en/latest/
 
-https://8813571.fs1.hubspotusercontent-na1.net/hubfs/8813571/Periscope%20-%2022Jan2025.pdf?utm_campaign=Email_Periscope_WW&utm_medium=email&_hsenc=p2ANqtz-88EOsJaK8CvlkDJPoN3XSn6Zul0exML5L-oK7_cc3NXEdlV5o5SHRJYya1GisvbpEiFiQZO47TKKIq0x2YUkabjl4-DA&_hsmi=343441412&utm_content=343442559&utm_source=hs_email
+https://8813571.fs1.hubspotusercontent-na1.net/hubfs/8813571/Periscope%20-%2022Jan2025.pdf
 
 https://labs.yarix.com/2025/01/zyxel-vulnerability-exploited-by-helldown-ransomware-group/
 
@@ -174,13 +174,13 @@ https://www.cyber.gov.au/about-us/view-all-content/publications/bulletproof-host
 
 https://samcurry.net/hacking-subaru
 
-https://thedfirreport.com
+
 
 https://cside.dev/blog/government-and-university-websites-targeted-in-scriptapi-dev-client-side-attack
 
 https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117#file-research-md
 
-https://www.derekseaman.com
+
 
 https://github.com/ynwarcs/CVE-2025-21298
 
