@@ -1,7 +1,0 @@
-https://github.com/olizimmermann/s3dns
-
-https://github.com/yogsec/API-Pentesting-Tools
-
-https://thehackernews.com/2025/04/apt29-deploys-grapeloader-malware.html
-
-https://physicalexploit.com/docs/products/getting-started/
